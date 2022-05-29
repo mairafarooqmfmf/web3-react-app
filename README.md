@@ -1,3 +1,5 @@
+## Build live @ https://web3-react-app-ts.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
